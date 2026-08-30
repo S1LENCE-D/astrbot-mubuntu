@@ -1,0 +1,6 @@
+id=astrbot-mubuntu
+name=AstrBot On Mubuntu
+version=v1.5.2
+versionCode=1502
+author=WeatherTool Lab
+description=依赖 Mubuntu 环境一键部署运行 AstrBot：KernelSU「执行」触发安装，开机自动唤起 muntu 并自启 AstrBot
