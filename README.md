@@ -29,4 +29,4 @@
 
 - 依赖 Mubuntu 环境：可先安装 [magisk_ubuntu](https://gitee.com/ytngtaoaaa/magisk_ubuntu)，或将官方 release 包放入 `assets/mubuntu.zip` 后重新打包，即可实现刷入时自动安装环境
 - 仅支持 arm64（aarch64）
-- 所有 muntu 操作遵循 Mubuntu 官方语法（`muntu run / status / daemon-start / autostart`）
+- 所有容器操作遵循 Mubuntu 官方语法（`mubuntu run / status / daemon-start / autostart`）
